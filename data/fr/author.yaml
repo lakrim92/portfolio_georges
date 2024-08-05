@@ -6,7 +6,7 @@ greeting: "Salut, je suis"
 image: "images/author/imgProfil.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  ইমেইল: "gdietrich@live.bn"
+  ইমেইল: "gdietrich@live.fr"
   ফোন: "+33788478222"
 
 # some summary about what you do
