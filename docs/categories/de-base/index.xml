@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>De Base on Georges Dietrich - Portfolio</title>
-    <link>https://lakrim92.github.io/categories/de-base/</link>
-    <description>Recent content in De Base on Georges Dietrich - Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://lakrim92.github.io/categories/de-base/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>Contenu Riche</title>
-      <link>https://lakrim92.github.io/posts/category/sub-category/rich-content/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://lakrim92.github.io/posts/category/sub-category/rich-content/</guid>
-      <description>Ce post d&amp;rsquo;exemple permet de tester les éléments suivants :
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>De Base on Georges Dietrich - Portfolio</title><link>https://lakrim92.github.io/categories/de-base/</link><description>Recent content in De Base on Georges Dietrich - Portfolio</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://lakrim92.github.io/categories/de-base/index.xml" rel="self" type="application/rss+xml"/><item><title>Contenu Riche</title><link>https://lakrim92.github.io/posts/category/sub-category/rich-content/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://lakrim92.github.io/posts/category/sub-category/rich-content/</guid><description>Ce post d&amp;rsquo;exemple permet de tester les éléments suivants :
 Catégorie et sous-catégorie dans la barre latérale. L&amp;rsquo;image de couverture et autres images se trouvent dans le dossier images situé dans le répertoire de ce post. Rendu de différents médias comme les images, les tweets, les vidéos YouTube, les vidéos Vimeo, etc. Exemple d&amp;rsquo;Image Exemple de Tweet Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
-&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 Exemple de Vidéo YouTube Exemple de Vidéo Vimeo </description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://lakrim92.github.io/posts/introduction/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://lakrim92.github.io/posts/introduction/</guid>
-      <description>Bonjour ! Ceci est un post d&amp;rsquo;introduction. Ce post permet de tester les éléments suivants :
-L&amp;rsquo;image de couverture se trouve dans le même répertoire que le post. Ce post doit apparaître en haut de la barre latérale. L&amp;rsquo;auteur du post doit être le même que celui spécifié dans le fichier author.yaml. </description>
-    </item>
-    
-    
-  </channel>
-</rss>
+&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 Exemple de Vidéo YouTube Exemple de Vidéo Vimeo</description></item><item><title>Introduction</title><link>https://lakrim92.github.io/posts/introduction/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://lakrim92.github.io/posts/introduction/</guid><description>Bonjour ! Ceci est un post d&amp;rsquo;introduction. Ce post permet de tester les éléments suivants :
+L&amp;rsquo;image de couverture se trouve dans le même répertoire que le post. Ce post doit apparaître en haut de la barre latérale. L&amp;rsquo;auteur du post doit être le même que celui spécifié dans le fichier author.yaml.</description></item></channel></rss>
