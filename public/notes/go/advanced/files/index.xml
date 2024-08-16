@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>File Manipulation on Georges Dietrich - Portfolio</title>
-    <link>http://localhost:1313/notes/go/advanced/files/</link>
+    <link>https://georges_dietrich.github.io/notes/go/advanced/files/</link>
     <description>Recent content in File Manipulation on Georges Dietrich - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="http://localhost:1313/notes/go/advanced/files/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://georges_dietrich.github.io/notes/go/advanced/files/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

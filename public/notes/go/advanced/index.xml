@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advanced on Georges Dietrich - Portfolio</title>
-    <link>http://localhost:1313/notes/go/advanced/</link>
+    <link>https://georges_dietrich.github.io/notes/go/advanced/</link>
     <description>Recent content in Advanced on Georges Dietrich - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="http://localhost:1313/notes/go/advanced/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://georges_dietrich.github.io/notes/go/advanced/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
