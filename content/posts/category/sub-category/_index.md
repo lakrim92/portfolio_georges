@@ -2,7 +2,7 @@
 title: Sub-Category
 menu:
   sidebar:
-    name: Sous-Categories
+    name: Sub-Category
     identifier: sub-category
     parent: category
     weight: 10

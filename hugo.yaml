@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-baseURL: https://lakrim92.github.io
-=======
 baseURL: https://georges_dietrich.github.io
->>>>>>> 8d5aa9c8 (depot deploiement)
 
-languageCode: en
+languageCode: fr
 title: "Georges Dietrich"
 
 # Use Hugo modules to add theme
