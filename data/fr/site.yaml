@@ -11,9 +11,9 @@ description: Le portfolio et blog personnel de Georges Dietrich.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider bnom the main menus.
-customMenus:
-- name: Documentation
-  url: https://toha-guides.netlify.app/posts/
+# customMenus:
+# - name: Documentation
+#   url: https://toha-guides.netlify.app/posts/
 
 # Specify OpenGraph Headers
 openGraph:
